@@ -1,0 +1,48 @@
+#header{
+    margin-top: 15px;
+    display: flex;
+}
+
+#divHeader{
+    background-color: orange;
+    width: 750px;
+    height: 60px;
+    margin: 5px 5px;
+
+}
+
+#bodyTop{
+    margin-top: 15px;
+    display: flex;
+}
+
+#divBodyTop{
+    background-color: yellow;
+    width: 1510px;
+    height: 250px;
+    margin: 5px 5px;
+}
+
+#bodyBottom{
+    display: flex;
+    margin-top: 15px;
+}
+
+#divBodyBottom{
+    background-color: blue;
+    width: 500px;
+    height: 180px;
+    margin: 5px 5px;
+}
+
+#footer{
+    display: flex;
+    margin-top: 10px; 
+}
+
+#divFooter{
+    background-color: gray;
+    width: 400px;
+    height: 115px;
+    margin: 5px 5px;
+}

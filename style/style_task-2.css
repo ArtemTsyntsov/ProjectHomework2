@@ -1,0 +1,31 @@
+.body{
+    border: 8px solid black;
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.green{
+    background-color: green;
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 580px;
+}
+
+.red{
+    background-color: red;
+    width: 350px;
+    height: 350px;
+    position: relative;
+}
+
+.blue{
+    background-color: blue;
+    width: 350px;
+    height: 350px;
+    position: relative;
+    margin-left: 250px;
+    bottom: 100px;
+}
